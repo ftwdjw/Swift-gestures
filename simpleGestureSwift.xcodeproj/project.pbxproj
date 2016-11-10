@@ -12,6 +12,10 @@
 		1BD984C51DD4A99200F15862 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BD984C31DD4A99200F15862 /* Main.storyboard */; };
 		1BD984C71DD4A99200F15862 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BD984C61DD4A99200F15862 /* Assets.xcassets */; };
 		1BD984CA1DD4A99200F15862 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BD984C81DD4A99200F15862 /* LaunchScreen.storyboard */; };
+		1BD984D21DD4A9CD00F15862 /* ReadMe.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 1BD984D11DD4A9CD00F15862 /* ReadMe.rtf */; };
+		1BD984D41DD4AC0800F15862 /* rotation.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BD984D31DD4AC0800F15862 /* rotation.png */; };
+		1BD984D61DD4AC1400F15862 /* swipe.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BD984D51DD4AC1400F15862 /* swipe.png */; };
+		1BD984D81DD4AC1D00F15862 /* tap.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BD984D71DD4AC1D00F15862 /* tap.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		1BD984C61DD4A99200F15862 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BD984C91DD4A99200F15862 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1BD984CB1DD4A99200F15862 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1BD984D11DD4A9CD00F15862 /* ReadMe.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = ReadMe.rtf; sourceTree = "<group>"; };
+		1BD984D31DD4AC0800F15862 /* rotation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rotation.png; sourceTree = "<group>"; };
+		1BD984D51DD4AC1400F15862 /* swipe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swipe.png; sourceTree = "<group>"; };
+		1BD984D71DD4AC1D00F15862 /* tap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tap.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +65,12 @@
 				1BD984BF1DD4A99200F15862 /* AppDelegate.swift */,
 				1BD984C11DD4A99200F15862 /* ViewController.swift */,
 				1BD984C31DD4A99200F15862 /* Main.storyboard */,
+				1BD984D11DD4A9CD00F15862 /* ReadMe.rtf */,
 				1BD984C61DD4A99200F15862 /* Assets.xcassets */,
 				1BD984C81DD4A99200F15862 /* LaunchScreen.storyboard */,
+				1BD984D31DD4AC0800F15862 /* rotation.png */,
+				1BD984D51DD4AC1400F15862 /* swipe.png */,
+				1BD984D71DD4AC1D00F15862 /* tap.png */,
 				1BD984CB1DD4A99200F15862 /* Info.plist */,
 			);
 			path = simpleGestureSwift;
@@ -126,6 +138,10 @@
 			files = (
 				1BD984CA1DD4A99200F15862 /* LaunchScreen.storyboard in Resources */,
 				1BD984C71DD4A99200F15862 /* Assets.xcassets in Resources */,
+				1BD984D21DD4A9CD00F15862 /* ReadMe.rtf in Resources */,
+				1BD984D41DD4AC0800F15862 /* rotation.png in Resources */,
+				1BD984D81DD4AC1D00F15862 /* tap.png in Resources */,
+				1BD984D61DD4AC1400F15862 /* swipe.png in Resources */,
 				1BD984C51DD4A99200F15862 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
